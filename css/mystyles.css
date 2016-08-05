@@ -61,5 +61,33 @@ footer {
 }
 
 #carousel_image {
-  height: 500px
+  height: 550px;
+  width: 100%;
+}
+
+.about_me {
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-style: italic;
+  font-family: serif;
+}
+
+#about_body {
+  background-image: url(http://vignette2.wikia.nocookie.net/youtaites/images/a/a9/Background-radial-gradient-dark.jpg/revision/latest?cb=20150214024058);
+}
+
+#about_me_row {
+  text-align: center;
+  list-style: inside;
+}
+#about_body h2 {
+  padding-top: 55px;
+  text-align: center;
+  font-family: cursive;
+}
+
+#code_image {
+  height: 200px;
+  width: 100%;
 }
