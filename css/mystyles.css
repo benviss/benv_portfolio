@@ -55,3 +55,11 @@
 #work_body {
   background-color: #999999;
 }
+footer {
+  bottom: 0;
+  text-align: center;
+}
+
+#carousel_image {
+  height: 500px
+}
