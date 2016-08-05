@@ -41,3 +41,7 @@
 #tabs {
   padding-top: 80px;
 }
+
+.nav-pills a {
+  color: green;
+}
