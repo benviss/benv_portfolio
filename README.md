@@ -6,7 +6,7 @@
 
 ## Description
 
-_This website is used to get more information about me. It is also a way for me to showcase my work to others. It has multiple tabs and has outgoing links as well. _
+_This website is used to get more information about me. It is also a way for me to showcase my work to others. It has multiple tabs and has outgoing links as well.To view on Github pages go to following link: https://benviss.github.io/benv_portfolio/index.html _
 
 ## Setup/Installation Requirements
 
