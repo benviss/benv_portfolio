@@ -1,7 +1,6 @@
 #dat_monkey_doe {
   width: 75px;
   height: auto;
-
 }
 
 #navigation {
@@ -73,7 +72,7 @@ footer {
   font-family: serif;
 }
 
-#about_body, #work_body {
+#about_body, #work_body, #index_body {
   background-image: url(http://vignette2.wikia.nocookie.net/youtaites/images/a/a9/Background-radial-gradient-dark.jpg/revision/latest?cb=20150214024058);
 }
 
