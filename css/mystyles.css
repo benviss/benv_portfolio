@@ -45,3 +45,8 @@
 .nav-pills a {
   color: green;
 }
+#workpic {
+  width: 100%;
+  height: auto;
+  float: right;
+}
