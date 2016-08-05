@@ -37,3 +37,7 @@
 .carousel-indicators li {
   border-color: black;
 }
+
+#tabs {
+  padding-top: 80px;
+}
