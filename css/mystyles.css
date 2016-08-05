@@ -10,3 +10,17 @@
 #myCarousel {
   padding-top: 100px;
 }
+
+.navbar-header {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.carousel-caption {
+  background: rgba(0,0,0,0.4);
+  padding-bottom: 20px;
+  padding-top: 20px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
