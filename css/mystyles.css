@@ -52,8 +52,8 @@
   border: solid black 1px;
 }
 
-#work_body {
-  background-color: #999999;
+/*#work_body {
+  background-color: #999999;*/
 }
 footer {
   bottom: 0;
@@ -73,7 +73,7 @@ footer {
   font-family: serif;
 }
 
-#about_body {
+#about_body, #work_body {
   background-image: url(http://vignette2.wikia.nocookie.net/youtaites/images/a/a9/Background-radial-gradient-dark.jpg/revision/latest?cb=20150214024058);
 }
 
@@ -90,4 +90,9 @@ footer {
 #code_image {
   height: 200px;
   width: 100%;
+}
+
+#githublinks {
+  font-size: 10pt;
+  float: right;
 }
